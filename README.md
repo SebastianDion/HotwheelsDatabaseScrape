@@ -1,5 +1,5 @@
 # Final Thesis Needs
-- Web from https://hotwheels.fandom.com/wiki/Category:Lists_of_Hot_Wheels_by_year
+- Web from https://hotwheels.fandom.com/wiki
   go to each page to see contents
 
 ## Guide
