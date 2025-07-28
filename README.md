@@ -7,3 +7,4 @@
 
 - the automation.py file is for scraping from a Json file got it from https://github.com/joedots1/fast_wheels
   
+*csv file will not be uploaded*
